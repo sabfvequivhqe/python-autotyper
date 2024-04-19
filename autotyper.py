@@ -5,8 +5,8 @@ import time
 #  ======== settings ========
 delay = 1  # in seconds
 message = 'Hello World!'
-resume_key = Key.f1
-pause_key = Key.f2
+resume_key = Key.a
+pause_key = Key.b
 exit_key = Key.esc
 #  ==========================
 
